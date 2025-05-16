@@ -22,8 +22,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TonPseudoGitHub&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonPseudoGitHub&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DARKOR-py&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DARKOR-py&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 ---
@@ -31,7 +31,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/TonPseudoGitHub/TonPseudoGitHub/raw/output/github-contribution-grid-snake.svg" alt="snake eating my contributions" />
+  <img src="https://github.com/DARKOR-py/DARKOR-py/raw/output/github-contribution-grid-snake.svg" alt="snake eating my contributions" />
 </p>
 
 ---
