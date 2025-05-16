@@ -15,6 +15,9 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white" alt="JetBrains Badge" />
+  <img src="https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm Badge" />
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT Badge" />
 </p>
 
 ---
@@ -33,6 +36,8 @@
 <p align="center">
   <img src="https://github.com/DARKOR-py/DARKOR-py/raw/output/github-contribution-grid-snake.svg" alt="snake eating my contributions" />
 </p>
+
+_Comming soon, I actualy need to have commits_ 😉
 
 ---
 
