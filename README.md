@@ -37,7 +37,11 @@
   <img src="https://github.com/DARKOR-py/DARKOR-py/raw/output/github-contribution-grid-snake.svg" alt="snake eating my contributions" />
 </p>
 
+![snake gif](https://github.com/DARKOR-py/DARKOR-py/blob/output/github-snake-dark.svg)
+
 _Comming soon, I actualy need to have commits_ 😉
+
+
 
 ---
 
